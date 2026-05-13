@@ -3,7 +3,7 @@ CREATE DATABASE gestao_academica;
 CREATE TABLE cursos (	--este comando é o auto increment.
 	id_curso INTEGER GENERATED ALWAYS AS IDENTITY PRIMARY KEY,
 	nome_curso VARCHAR(50),
-	carga_horario INTEGER
+	carga_horaria INTEGER
 );
 
 CREATE TABLE alunos (
