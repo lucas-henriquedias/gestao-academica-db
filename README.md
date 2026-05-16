@@ -89,7 +89,7 @@ gestao-academica-db/
 
 ## 📄 Licença
 Este projeto está sob a Licença MIT.
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=fast)](LICENSE)
 
 
 
